@@ -13,6 +13,7 @@ The Travel Planner aims to help users organize work or leisure trips. Users can 
 - Lombok
 - JPA
 - H2 Database
+- Insomnia
 
 ## Functional requirements
 1. The user registers a trip by entering the destination, start date, end date, guests' e-mails and also their full name and e-mail address;
